@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+  Hello world
+
+  <p style="background-image: url('img_girl.jpg');">
+
+
+
+
+    <style>
+      p {
+        background-image: url('img_girl.jpg');
+
+      }
+    </style>
+
+
+
+    <style>
+      body {
+        background-image: url('img-girl.jpg')
+      }
+    </style>
+
+
+    <style>
+      body {
+        background-image: url('example_img_girl.jpg');
+      }
+    </style>
+
+
+
+    <style>
+      body {
+        background-image: url('example_img_girl.jpg');
+        background-repeat: no-repeat;
+      }
+    </style>
+
+    <style>
+      body {
+        background-image: url('img_girl.jpg');
+        background-repeat: no-repeat background-attachment:fixed;
+        background-size: cover;
+      }
+    </style>
+
+    <style>
+      body {
+        background-image: url('img_girl.jpg');
+        background-repeat: no-repeat background-attachment:fixed;
+        background-size: 100% 100%;
+      }
+    </style>
+
+    <picture>
+      <source media-"(min-width: 650px)" screet="img_food.jpg">
+      <source media-"(min-width: 465px)" screet="img_car.jpg">
+      <img src="img_girl.jpg">
+
+    </picture>
+
+    <picture>
+      <source scrset="img_avatar.png">
+      <source scrset-"img_girl.jpg">
+      <img src="img_beatles.gif" alt="Beatles" style="width:auto;">
+
+    </picture>
+
+    <title>My Page Title</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
+  <h1>this is a heading</h1>
+  <p>this is a paragraph</p>
+
+
+  <title>html tutorial</title>
+
+  <body>the content of the document...</body>
+
+
+
+  <table>
+    <tr>
+      <th>Company</th>
+      <th>Contact</th>
+      <th>Country</th>
+    </tr>
+    <td>alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+
+    </tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+
+    </th>
+
+
+
+    <table2>
+
+      <tr>
+        <td>Email</td>
+        <td>Tobias</td>
+        <td>Linus</td>
+      </tr>
+
+      <tr>
+        <td>16</td>
+        <td>14</td>
+        <td>10</td>
+      </tr>
+
+    </table2>
+
+
+
+    <table3>
+      <tr>
+        <th>Person 1</th>
+        <th>Person 2</th>
+        <th>Person 3</th>
+      </tr>
+
+      <tr>
+        <td>Email</td>
+        <td>Tobias</td>
+        <td>Linus</td>
+      </tr>
+
+      <tr>
+        <td>16</td>
+        <td>14</td>
+        <td>10</td>
+      </tr>
+
+    </table3>
+
+
+    table, th, td{
+    border:1px solid black;
+    border-radius:10px;
+    }
+
+    border-collapse: collapse;
+    }
+    th, td{
+    background-color:#96D4D4;
+
+    }
+
+
+    table, th , td{
+    border:1px solid black;
+    border-radius:10px;
+    }
+
+    table, th , td{
+    border:1px solid black;
+    border-radius:10px;
+    }
+
+    th, td{
+    border-style:dotted;
+    }
+
+    th, td{
+    border-style: #96D4D4;
+    }
+
+
+    <table style="width:100%">
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+      </tr>
+
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+    </table>
+
+
+
+
+
+    <table style="width:100%">
+      <tr>
+        <th style="width:70%">Firstname</th>
+
+        <th>Lastname</th>
+
+        <th>Age</th>
+      </tr>
+
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+    </table>
+
+
+
+
+
+
+    <table style="width:100%">
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+      </tr>
+      <tr style="height:200px">
+        <td>jill</td>
+        <td>Smith</td>
+        <td>50</td>
+
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+
+      </tr>
+    </table>
+
+
+
+
+
+
+    <table>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+    </table>
+
+
+
+
+    <table>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>Lastname</td>
+        <td>Smith</td>
+        <td>Jackson</td>
+      </tr>
+      <tr>
+        <td>Age</td>
+        <td>94</td>
+        <td>50</td>
+      </tr>
+    </table>
+
+
+
+    th{
+    text-align:left;
+    }
+
+
+
+    <table>
+      <tr>
+        <th colspan="2">Name</th>
+      </tr>
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>jackson</td>
+        <td>94</td>
+      </tr>
+    </table>
+
+
+
+
+
+    <table style="width:100%">
+      <caption>Monthly savings</caption>
+      <tr>
+        <th>Month</th>
+        <th>Saving</th>
+      </tr>
+      <tr>
+        <td>January</td>
+        <td>$100</td>
+      </tr>
+      <tr>
+        <td>February</td>
+        <td>$50</td>
+      </tr>
+    </table>
+
+
+    th, td{
+    padding: 15px;
+    }
+
+    th,td{
+    padding-top:10px;
+    padding-bottom:20px;
+    padding-left: 30px;
+    padding-right: 40px;
+
+    }
+
+    table{
+    border-spacing:30px;
+
+    }
+
+
+
+    <table>
+
+      <tr>
+        <th colspan="2">Name</th>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>jill</td>
+        <td>Smith</td>
+        <td>43</td>
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>jackson</td>
+        <td>57</td>
+      </tr>
+    </table>
+
+
+
+
+
+    <table>
+
+      <tr>
+        <th Name</th>
+        <th>Jill</th>
+      </tr>
+      <tr>
+        <td rowspan="2">Phone</td>
+        <td>555-1234</td>
+      </tr>
+
+      <tr>
+        <td>555-8745</td>
+
+      </tr>
+    </table>
+
+
+
+    tr:nth-child<even>{
+      background-color: #D6EEEE;
+      }
+
+
+      td:nth-child(even), th:nth-child<even){ background-color: #D6EEEE; } th:nth-child(even){ background-color:
+        rgba(150,212,212,0.4); } th:nth-child(even), th:nth-child(even){ background-color: rgba(150,212,212,0.4); } tr{
+        border-bottom: 1px solid #ddd; } tr:hover{ background-color: #D6EEEE; } <table>
+        <colgroup>
+          <col span="2" style="background-color: D6EEEE">
+
+        </colgroup>
+        <tr>
+          <th>MON</th>
+          <th>TUE</th>
+          <th>WED</th>
+          <th>THU</th>
+        </tr>
+
+  </table>
+
+
+
+
+  <table>
+    <colgroup>
+      <col span="2" style="background-color: D6EEEE">
+      <col span="3" style="background-color: pink">
+
+
+    </colgroup>
+    <tr>
+      <th>MON</th>
+      <th>TUE</th>
+      <th>WED</th>
+      <th>THU</th>
+    </tr>
+
+  </table>
+
+
+
+  <table>
+    <colgroup>
+      <col span="3">
+
+      <col span="2" style="background-color: pink>
+          </colgroup>
+              
+          <tr>
+              <th>MON</th>
+              <th>TUE</th>
+          <th>WED</th>
+          <th>THU</th>
+          </tr>
+
+        </table>
+
+
+
+
+              
+
+              <table>
+                <colgroup>
+                  <col span=" 2">
+
+      <col span="3" style="visibility: collapse">
+    </colgroup>
+
+    <tr>
+      <th>MON</th>
+      <th>TUE</th>
+      <th>WED</th>
+      <th>THU</th>
+    </tr>
+
+  </table>
+
+
+  <ul>
+    <li>coffee</li>
+    <li>Tea</li>
+    <li>milk</li>
+  </ul>
+
+
+  <ol>
+    <li>coffee</li>
+    <li>Tea</li>
+    <li>milk</li>
+  </ol>
+
+
+  <dl>
+    <dt>coffee</dt>
+    <dd>-black hot drink</dd>
+    <dt>milk</dt>
+    <dd>white cold drink</dd>
+  </dl>
+
+
+  <ul>
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+  </ul>
+
+
+
+  <ul style="list-style-type:disc;">
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+  </ul>
+
+
+
+  <ul style="list-style-type:circle;">
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+  </ul>
+
+
+
+
+  <ul style="list-style-type:square;">
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+  </ul>
+
+
+  <ul style="list-style-type:none;">
+    <li>coffee</li>
+    <li>tea</li>
+    <li>milk</li>
+  </ul>
+
+
+
+
+
+
+  <ul>
+
+    <li>coffee</li>
+    <li>tea</li>
+    <ul>
+      <li>black tea</li>
+      <li>green tea</li>
+    </ul>
+    </li>
+    <li>milk</li>
+  </ul>
+
+
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333333;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #111111;
+    }
+  </style>
+  <ul>
+
+    <ul><a href="#home">Home</a></ul>
+    <ul><a href="#news">News</a></ul>
+    <ul><a href="#Contact">Contact</a></ul>
+    <ul><a href="#about">About</a></ul>
+
+  </ul>
+
+  <ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+  <ol type="1">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+  <ol type="A">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+  <ol type="a">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+  <ol type="I">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+
+  <ol type="i">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+  <ol start="50">
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+
+
+  <ol>
+    <li>Coffee</li>
+    <li>Tea
+      <ol>
+        <li>Black tea</li>
+        <li>Green tea</li>
+        <li>Milk</li>
+      </ol>
+    </li>
+    <li>milk</li>
+  </ol>
+
+  <dl>
+    <dt>coffee</dt>
+    <dd>-black hot drink</dd>
+    <dt>milk</dt>
+    <dd>-white cold drink</dd>
+
+  </dl>
+
+  <p>hello world</p>
+  <div>hello world</div>
+
+
+  <span> hello world</span>
+
+
+
+
+  <div style="background-color: black; color:white; padding: 20px">
+    <h2>London</h2>
+    <p>London is the capital city of england</p>
+  </div>
+
+
+
+  <p>My mother has <span style="color:blue; font-weight:bold;">blue</span> eyes and my father has<span
+      style="color:darklivegreen; font-weight:bold;"> dark green</span> eyes</p>
+
+
+
+  Lorem Ipsum <div>I am a div</div>dolor sit amet.
+
+
+  <div>
+
+    <h2>London</h2>
+    <p>London is the capital of england</p>
+    <p>London has over 133 million inhabitants</p>
+  </div>
+
+  <style>
+    div {
+      width: 300px;
+      margin: auto;
+    }
+  </style>
+
+
+
+
+
+  <div>
+
+    <h2>London</h2>
+    <p>London is the capital of england</p>
+    <p>London has over 133 million inhabitants</p>
+  </div>
+
+  <div>
+    <h2>Oslo</h2>
+    <p>Osle is the capital city of Norway</p>
+    <p>Oslo has over 600.000 inhabitants</p>
+  </div>
+
+  <div>
+    <h2>Rome</h2>
+    <p>Rome is the capital city of Italy</p>
+    <p>Rome has almost 3 million inhabitants</p>
+  </div>
+
+  <style>
+    .mycontainer {
+      witdh: 100;
+      overflow: auto;
+    }
+
+    .mycontainer div {
+      width: 33%;
+      float: left;
+
+    }
+  </style>
+
+
+
+  <style>
+    div {
+      width: 30%;
+      displat: inline-block;
+    }
+  </style>
+
+
+
+
+  <style>
+    .mycontainer {
+      display: flex;
+    }
+
+    .mycontainer>div {
+      width: 33%;
+    }
+  </style>
+
+
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: 33% 33% 33%;
+
+    }
+  </style>
+
+
+  <style>
+    .city {
+      background-color: tomato;
+      color: white;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+
+    }
+  </style>
+
+
+  <div class="city">
+    <h2>London</h2>
+    <P>london is the </P>
+  </div>
+
+
+  <div class="city">
+    <h2>France</h2>
+    <P>France is the </P>
+  </div>
+
+
+  <div class="city">
+    <h2>Tokyo</h2>
+    <P>Tokyo is the </P>
+  </div>
+
+  <style>
+    .note {
+      font-size: 120%;
+      color: red;
+    }
+  </style>
+
+
+  <h1>My<span class="note"> Important</span>Heading</h1>
+
+  <p>this is some<span class="note">important</span>text.</p>
+
+
+
+
+
+
+
+
+
+  <script src="script.js"></script>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    .city {
+      background-color: tomato;
+      color: white;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2 class="city">London</h2>
+  <p>London is the capital of England.</p>
+
+  <h2 class="city">Paris</h2>
+  <p>Paris is the capital of France.</p>
+
+  <h2 class="city">Tokyo</h2>
+  <p>Tokyo is the capital of Japan.</p>
+
+  <h2 class="city main">London</h2>
+  <h2 class="city">paris</h2>
+  <h2 class="city">Tokyo</h2>
+
+
+  <h2 class="city">Paris</h2>
+  <p class="city"> Paris is the capital of France</p>
+
+
+
+
+  <script>
+    function myFunction() {
+      var x = document.getElementsByClassName("city");
+      for (var i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+
+      }
+    }
+  </script>
+
+</body>
+
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    #myHeader {
+      background-color: lightblue;
+      color: black;
+      padding: 40px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 id="myHeader">My Header</h1>
+
+</body>
+
+</html>
+
+
+
+
+
+<style>
+  #myHeader {
+    background-color: lightblue;
+    color: blakc;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+
+  }
+</style>
+
+
+<h1 id="myHeader">My Cities</h1>
+
+<!-- Muliple element with same class -->
+<h2 class="city">London</h2>
+<p>London is the capital of England.</p>
+
+<h2 class="city">Paris</h2>
+<p>Paris is the capital of France.</p>
+
+<h2 class="city">Tokyo</h2>
+<p>Tokyo is the capital of Japan.</p>
+
+
+<h2 id="C4" Chapter 4</h2>
+
+  <a href="#C4"> Jump to Chapter 4</a>
+
+  <a href="html_demo.html#C4"> Jump to Chapter 4</a>
+
+
+
+  <script>
+    function displayResult() {
+      document.getElementById("myHeader").innerHTML = "Have a nice day!"
+
+    }
+  </script>
+
+
+
+
+
+  <iframe src="url" title="description"></iframe>
+
+  <iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+
+  <iframe src="demo_iframe.htm" style="height: 200px;width:300px;" title="Iframe Example"></iframe>
+
+
+
+  <iframe src="demo_iframe.htm" style="border:none;" title="Iframe Example"> </iframe>
+
+
+  <iframe src="demo_iframe.htm" style="border: 2px solid red;" title="Iframe Example"></iframe>
+
+  <iframe src="demo_iframe.htm" name="iframe_a" title="Iframe Example"></iframe>
+
+  <p><a href="https://www.w3schools.com" target="iframe_a"> W3schools.com</a> </p>
+
+
+
+  <script>
+    document.getElementById("demo").innerHTML = "hello javascript!";
+  </script>
+
+  document.getElementById("demo").innerHTML ="hello javascript!";
+
+  document.getElementById("demo").style.fontSize = "25px";
+  document.getElementById("demo").style.color = "red";
+  document.getElementById("demo").style.backgroundColor ="yellow";
+
+  document.getElementById("image").src ="picture.gif";
+
+
+  <script>
+    document.getElementById("demo").innerHTML = "Hello javaScript";
+  </script>
+  <noscript>Sorry.your browers does not support javaScript!</noscript>
+
+
+  <img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain">
+
+
+  <img src="/images/picture.jpg" alt="Mountain">
+
+  <img src="images/picture.jpg" alt="Mountain">
+
+  <img src="../images/picture.jpg" alt="Mountain">
+
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+    <title>
+      A meaningful page title
+    </title>
+  </head>
+
+  <body>
+    the content of the document..
+  </body>
+
+  </html>
+
+
+  <style>
+    body {
+      background-color: powderblue;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    p {
+      color: blue;
+    }
+  </style>
+
+
+
+  <link rel="stylesheet" href="mystyle.css">
+
+
+  <meta charset="UTF-8">
+  <meta name="description" content="Free WEb tutorials">
+  <meta name="keyword" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+
+  <script>
+    function myFunction() {
+      document.getElementById("demo").innerHTML = "Hello JAvaScript!"
+    }
+  </script>
+
+  <head>
+    <base href="https://www.w3schools.com/" target="_blank">
+  </head>
+
+  <body>
+    <img src="images/stickman.gif" width="24" height="39" alt="Stickman">
+    <a href="tags/tag_base.asp"> HTML base Tag</a>
+
+
+
+  </body>
